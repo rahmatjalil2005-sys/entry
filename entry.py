@@ -12,9 +12,10 @@ if gender == "M":
 elif gender == "f":
     print("Welcome To Our Party")
 else:
-    print("Sorry It Is just for M")
+    print("Sorry It Is just for F")
 root.mainloop()
 
 
  
+
 
