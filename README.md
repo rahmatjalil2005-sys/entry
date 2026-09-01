@@ -1,2 +1,2 @@
 # entry
-This is my first coding in python
+This is my First Python Project
